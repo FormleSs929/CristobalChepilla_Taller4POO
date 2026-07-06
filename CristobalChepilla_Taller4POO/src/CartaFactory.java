@@ -3,8 +3,6 @@
  * Fabrica encargada de centralizar la creacion de instancias de Cartas
  * segun su tipo correspondiente de forma limpia.
  * 
- * @author Tu Nombre
- * @version 1.0
  */
 public class CartaFactory {
 
