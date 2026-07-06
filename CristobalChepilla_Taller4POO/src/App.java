@@ -5,8 +5,6 @@ import javax.swing.SwingUtilities;
  * Punto de entrada principal de la aplicacion que separa el Sistema
  * de la inicializacion del entorno visual.
  * 
- * @author Tu Nombre
- * @version 1.0
  */
 public class App {
     public static void main(String[] args) {
