@@ -3,8 +3,6 @@
  * Interfaz que define el contrato para el patron Visitor.
  * Permite separar los algoritmos de las clases sobre las que opera.
  * 
- * @author Tu Nombre
- * @version 1.0
  */
 public interface Visitor {
     /** Visita una carta de tipo Pokemon */
