@@ -6,8 +6,6 @@ import java.io.File;
 /**
  * Interfaz Grafica principal interactiva estructurada en 2 pestanas.
  * 
- * @author Tu Nombre
- * @version 1.0
  */
 public class VentanaPrincipal extends JFrame {
     private final ColeccionSystem sistema;
