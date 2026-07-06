@@ -8,8 +8,6 @@ import java.util.Scanner;
  * Clase Controladora del Sistema bajo el Patron Singleton.
  * Gestiona el almacenamiento en memoria y la persistencia simple de archivos.
  * 
- * @author Tu Nombre
- * @version 1.0
  */
 public class ColeccionSystem {
     private static ColeccionSystem instance;
