@@ -2,8 +2,6 @@
 /**
  * Clase abstracta que representa una Carta base del juego TCG.
  * 
- * @author Tu Nombre
- * @version 1.0
  */
 public abstract class Carta {
     private String nombre;
