@@ -3,8 +3,6 @@
  * Implementacion del Visitor para calcular el poder de cada tipo de carta.
  * Contiene las formulas especificas de la pauta de evaluacion.
  * 
- * @author Tu Nombre
- * @version 1.0
  */
 public class PoderVisitor implements Visitor {
 
